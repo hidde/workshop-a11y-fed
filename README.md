@@ -51,6 +51,16 @@ In this repository you will find our example site and some relevant links.
 * [WebAIM: Invisible content](http://webaim.org/techniques/css/invisiblecontent/)
 * [Hiding content - hiddedevries.nl](https://hiddedevries.nl/en/blog/2017-04-11-on-hiding-content)
 
+### Keyboard and other inputs
+
+Console.logging the active element ([details](https://hiddedevries.nl/en/blog/2019-01-30-console-logging-the-focused-element-as-it-changes)): 
+
+```js
+document.addEventListener('focus', function() {
+  console.log('focused: ', document.activeElement)
+}, true);
+```
+
 ## Using ARIA
 
 ### What is it, how does it help?
@@ -66,6 +76,11 @@ In this repository you will find our example site and some relevant links.
 
 * [The aria-current attribute](https://tink.uk/using-the-aria-current-attribute/) by Léonie Watson
 * [Sensible ARIA usage - Accessibility Developer Guide](https://www.accessibility-developer-guide.com/examples/sensible-aria-usage/current/)
+
+### Client side routing
+
+* [What we learned from user testing of accessible client-side routing techniques with Fable Tech Labs](https://www.gatsbyjs.com/blog/2019-07-11-user-testing-accessible-client-routing/)
+* [Improved accessible routing in Vue.js (updated)](https://marcus.io/blog/improved-accessible-routing-vuejs)
 
 ## Building accessible components
 
