@@ -13,6 +13,7 @@ In this repository you will find our example site and some relevant links.
 * [WCAG 2.1 QuickRef](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.1)
 * [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) by Anne Gibson
 * [Motor impairments](https://webaim.org/articles/motor/motordisabilities) and [Assistive Technologies for Motor Impairments](https://webaim.org/articles/motor/assistive) at WebAIM
+* [Testing with VoiceOver](https://webaim.org/articles/voiceover/), [Testing with NVDA](https://webaim.org/articles/nvda/), [Testing with JAWS](https://webaim.org/articles/jaws/), all on WebAIM, [Testing with VoiceOver](https://www.apple.com/voiceover/info/guide/_1124.html), [Testing with Narrator](https://support.microsoft.com/en-us/windows/chapter-2-narrator-basics-5ff4591e-7b6d-245e-c95d-ce83c0a1a8d4)
 
 ## The business case
 
