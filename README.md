@@ -18,7 +18,8 @@ In this repository you will find our example site and some relevant links.
 
 * [Accessibility core value at Apple, therefore impacts performance-based bonuses](https://www.applevis.com/blog/apple-executives-bonuses-be-tied-their-performance-respect-accessibility-and-companys-other)
 * [Accessibility features in Microsoft products](https://www.microsoft.com/en-us/research/group/enable/)
-* [Tijdelijk besluit digitale toegankelijkheid - voor wie is het verplicht?](https://www.digitoegankelijk.nl/wetgeving/voor-wie-is-het-verplicht)\
+* [Tijdelijk besluit digitale toegankelijkheid - voor wie is het verplicht?](https://www.digitoegankelijk.nl/wetgeving/voor-wie-is-het-verplicht)
+* [Directive (EU) 2019/882 on the accessibility requirements for products and services]https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32019L0882)
 
 ## Toolbelt for developers
 
