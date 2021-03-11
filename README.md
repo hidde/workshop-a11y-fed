@@ -18,8 +18,8 @@ In this repository you will find our example site and some relevant links.
 
 * [Accessibility core value at Apple, therefore impacts performance-based bonuses](https://www.applevis.com/blog/apple-executives-bonuses-be-tied-their-performance-respect-accessibility-and-companys-other)
 * [Accessibility features in Microsoft products](https://www.microsoft.com/en-us/research/group/enable/)
-* [Tijdelijk besluit digitale toegankelijkheid - voor wie is het verplicht?](https://www.digitoegankelijk.nl/wetgeving/voor-wie-is-het-verplicht)
-* [Directive (EU) 2019/882 on the accessibility requirements for products and services]https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32019L0882)
+* [Tijdelijk besluit digitale toegankelijkheid - voor wie is het verplicht?](https://www.digitoegankelijk.nl/wetgeving/voor-wie-is-het-verplicht) (NL)
+* [Directive (EU) 2019/882 on the accessibility requirements for products and services]https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32019L0882) or [Een update over de European Accessibility Act](https://medium.com/eleven-ways/een-update-over-de-european-accessibility-act-70993ab0b77) (NL) 
 
 ## Toolbelt for developers
 
@@ -88,7 +88,7 @@ In this repository you will find our example site and some relevant links.
 ## Online learning
 
 * [Google's Udacity Course](https://eu.udacity.com/course/web-accessibility--ud891)
-* [Marchy Sutton's online course](https://egghead.io/courses/start-building-accessible-web-applications-today)
+* [Marcy Sutton's online course](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
 ## Offline learning (books)
 
