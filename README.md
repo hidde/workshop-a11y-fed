@@ -82,13 +82,15 @@ document.addEventListener('focus', function() {
 
 * [What we learned from user testing of accessible client-side routing techniques with Fable Tech Labs](https://www.gatsbyjs.com/blog/2019-07-11-user-testing-accessible-client-routing/)
 * [Improved accessible routing in Vue.js (updated)](https://marcus.io/blog/improved-accessible-routing-vuejs)
+* [Accesssible routing pattern for Vue](https://accessible-app.com/pattern/vue/routing)
+* [Accessible routing in Angular](https://simplyaccessible.com/article/spangular-accessibility/#acc-heading-3)
 
 ## Building accessible components
 
 * [Inclusive Components](//inclusive-components.design)
 * [ally.js](//allyjs.io)
 * Patterns section on [The A11y Project](https://a11yproject.com)
-
+* [Up your a11y](https://www.upyoura11y.com/), with React-specific example code
 
 ## Staying up to date
 
